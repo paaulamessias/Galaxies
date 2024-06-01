@@ -1,6 +1,6 @@
 # Galaxies 🌌
 
-![](./assets/Cover.jpg)
+![](./assets/cover.jpg)
 
 ### 🚀 Technologies
 
