@@ -3,6 +3,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+:root {
+  font-family: Mulish;
+}
 
 body {
   background: #121214;
@@ -15,15 +18,24 @@ body {
 
 header h1 {
   color:  #02799D;
-  
+
   font-size: 56px;
   font-weight: 900;
-  line-height: 73px;
+  line-height: 72px;
 
 }
-header p {}
+
+header p {
+  color: #E1E1E6;
+
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 40px;
+}
 
 main {
+  margin-top: 60px;
+
   display: grid;
   grid-template-columns: repeat(3, 370px);
 
