@@ -18,7 +18,7 @@ body {
 }
 
 header h1 {
-  color:  #02799D;
+  color: #02799D;
 
   font-size: 56px;
   font-weight: 900;
@@ -57,7 +57,7 @@ main {
 }
 
 .card p {
-  color:  #C4C4CC;
+  color: #C4C4CC;
   font-size: 18px;
   font-weight: 600;
   padding: 24px 32px 32px;
